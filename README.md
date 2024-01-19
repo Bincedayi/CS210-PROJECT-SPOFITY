@@ -1,10 +1,12 @@
 # CS210-PROJECT-SPOFITY
-I did my project by preparing a presentation.
+I did my project by preparing a presentation with video.
 
 
 
 
 I trained data from December 2022 to November 2023, then data tests December 2023 and predicts the first six months of 2024.
+
+
 NOTE: Name of presentation is "cs210 presentation-Bilgehan Incedayi-29056" you can see in my repository but you need to download to raw data to watch my video about presentation.
 
 
@@ -17,7 +19,7 @@ Valence:
 A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
 
 
-speechiness
+Speechiness:
 Speechiness detects the presence of spoken words in a track. The more exclusively speech-like the recording (e.g. talk show, audio book, poetry), the closer to 1.0 the attribute value. Values above 0.66 describe tracks that are probably made entirely of spoken words. Values between 0.33 and 0.66 describe tracks that may contain both music and speech, either in sections or layered, including such cases as rap music. Values below 0.33 most likely represent music and other non-speech-like tracks.
 
 Liveness:
