@@ -1,7 +1,8 @@
 # CS210-PROJECT-SPOFITY
-Projemi sunum hazirlayarak yaptim.
+I did my project by preparing a presentation.
 
 
 
 
-Train datami 2022 araliktan 2023 kasima kadar train ondan sonra 2023 aralik ayi test ediyor ve 2024un ilk alti ayini tahmin ediyor.
+Train data runs from December 2022 to November 2023, then train tests December 2023 and predicts the first six months of 2024.
+NOTE: Name of presentation is "cs210 presentation-Bilgehan Incedayi-29056" you can see in my repository but you need to download to raw data to watch my video about presentation.
