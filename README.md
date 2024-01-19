@@ -1,3 +1,4 @@
 # CS210-PROJECT-SPOFITY
-CS210 DATA SCIENCE PROJECT
-fgdeg
+Projemi sunum hazirlayarak yaptim.
+
+Sunumu anlattigim videonun linki burada:
